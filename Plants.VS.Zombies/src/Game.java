@@ -4,7 +4,7 @@ import com.google.gson.reflect.TypeToken;
 import java.io.*;
 import java.util.ArrayList;
 import java.util.Scanner;
-
+//this the test from morteza
 public class Game {
     public static ArrayList<Account> Accounts = new ArrayList<Account>();
     static LoginMenu loginmenu = new LoginMenu();
